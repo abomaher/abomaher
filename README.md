@@ -8,7 +8,7 @@ I have more than 10 years of experience in developing websites and cloud systems
 
 I don't like management directly. I like the team's fun, collaborative spirit that deals with pressure professionally.
 
-## 😄 These are sample codes for programming languages ​​that I have experience with and have worked on for periods of time...
+### 😄 You can show down samples codes for programming languages ​​that I have experience with and have worked on for periods of time...
 
 
 
