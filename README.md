@@ -15,7 +15,7 @@ I don't like management directly. I like the team's fun, collaborative spirit th
 * Express.js, React.js, Next.js and React Native in Node.js runtime with JavaScript and TypeScript.
 * REST Api.
 
-### 😄 You can see a sample of the programming codes of the programming languages ​​he masters below...
+### 😄 You can see a sample of my programming languages codes below...
 
 
 
