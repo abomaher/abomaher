@@ -1,6 +1,6 @@
-## Hi there, I’m Abdulhakim Zuqut 👋
+### Hi there, I’m Abdulhakim Zuqut 👋
 
-## I’m currently working on Web & software Full Stack developer 🔭
+### I’m currently working on Web & software Full Stack developer 🔭
 
 ## Ask me about 💬 ...
 
@@ -8,7 +8,7 @@ I have more than 10 years of experience in developing websites and cloud systems
 
 I don't like management directly. I like the team's fun, collaborative spirit that deals with pressure professionally.
 
-### 😄 You can show down samples codes for programming languages ​​that I have experience with and have worked on for periods of time...
+### 😄 You can see a sample of the programming codes of the programming languages ​​he masters below...
 
 
 
