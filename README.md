@@ -8,6 +8,13 @@ I have more than 10 years of experience in developing websites and cloud systems
 
 I don't like management directly. I like the team's fun, collaborative spirit that deals with pressure professionally.
 
+#### ⚡ This is some of my Technical Skills: 
+* Asp.net MVC and Asp.net Core in C# with SQL server and MongoDB.
+* Laravel in PHP with MySql and MongoDB.
+* HTML, CSS, bootstrap and Tailwind CSS.
+* Express.js, React.js, Next.js and React Native in Node.js runtime with JavaScript and TypeScript.
+* REST Api.
+
 ### 😄 You can see a sample of the programming codes of the programming languages ​​he masters below...
 
 
