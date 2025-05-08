@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there, I’m Abdulhakim Zuqut 👋
+
+## I’m currently working on Web & software Full Stack developer 🔭
+
+## Ask me about 💬 ...
+
+I have more than 10 years of experience in developing websites and cloud systems. I have experience in integration with any system. I also have experience in managing and developing a team and converting systems to products that provide electronic services in various fields, including educational systems, human resources systems, accounting systems and systems private and linked to government agencies, payment systems and other systems.
+
+I don't like management directly. I like the team's fun, collaborative spirit that deals with pressure professionally.
+
+## 😄 These are sample codes for programming languages ​​that I have experience with and have worked on for periods of time...
+
+
 
 <!--
 **abomaher/abomaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
