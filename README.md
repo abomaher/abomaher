@@ -1,6 +1,6 @@
 ### Hi there, I’m Abdulhakim Zuqut 👋
 
-### I’m currently working on Web & software Full Stack developer 🔭
+ I’m currently working on Web & software Full Stack developer 🔭
 
 ## Ask me about 💬 ...
 
