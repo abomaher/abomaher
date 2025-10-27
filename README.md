@@ -15,10 +15,13 @@ I don't like management directly. I like the team's fun, collaborative spirit th
 * Express.js, React.js, Next.js and React Native in Node.js runtime with JavaScript and TypeScript.
 * REST Api.
 
-## Latest works
+## 😎 Latest works
+* ...
 * https://molk.com.kw/ [E-commerce Website] (By: Laravel and MySql DB)
 * https://shreet.sa/ [Mobile application ios and android] (By: Express, mongoBD and react native)
-* ...
+* https://www.detasad.com/ [Wordpress website] (By: PHP and MySql DB)
+* https://alasilacx.sa/ [Wordpress website] (By: PHP and MySql DB)
+* https://dry.sa/ [Website] (By: PHP and MySql DB)
 
 ### 😄 You can see a sample of my codes below...
 
