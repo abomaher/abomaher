@@ -22,6 +22,8 @@ I don't like management directly. I like the team's fun, collaborative spirit th
 * https://www.detasad.com/ [Wordpress website] (By: PHP and MySql DB)
 * https://alasilacx.sa/ [Wordpress website] (By: PHP and MySql DB)
 * https://dry.sa/ [Website] (By: PHP and MySql DB)
+* https://sree3logistics.sa/ [Website] (By: HTML)
+* https://advanceddata.sa/ [Wordpress website] (By: PHP and MySql DB)
 
 ### 😄 You can see a sample of my codes below...
 
