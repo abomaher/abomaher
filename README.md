@@ -1,6 +1,7 @@
 ### Hi there, I’m Abdulhakim Zuqut 👋
 
  I’m currently working on Web & software Full Stack developer 🔭
+ Direct contact by whatsapp 00966559463575
 
 ## Ask me about 💬 ...
 
